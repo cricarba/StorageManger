@@ -1,8 +1,4 @@
-﻿// <copyright company="Aranda Software">
-// © Todos los derechos reservados
-// </copyright>
-
-using Cricarba.Storage.Definitions;
+﻿using Cricarba.Storage.Definitions;
 using Cricarba.Storage.Fabric;
 
 namespace Cricarba.Storage

@@ -1,8 +1,4 @@
-﻿// <copyright company="Aranda Software">
-// © Todos los derechos reservados
-// </copyright>
-
-namespace Cricarba.Storage.Definitions
+﻿namespace Cricarba.Storage.Definitions
 {
     internal interface IPath
     {

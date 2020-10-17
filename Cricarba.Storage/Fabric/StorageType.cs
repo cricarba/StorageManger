@@ -1,8 +1,4 @@
-﻿// <copyright company="Aranda Software">
-// © Todos los derechos reservados
-// </copyright>
-
-namespace Cricarba.Storage.Fabric
+﻿namespace Cricarba.Storage.Fabric
 {
     public enum StorageType
     {

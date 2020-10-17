@@ -1,8 +1,4 @@
-﻿// <copyright company="Aranda Software">
-// © Todos los derechos reservados
-// </copyright>
-
-namespace Cricarba.Storage.Dto
+﻿namespace Cricarba.Storage.Dto
 {
     public class DirectoryInformation
     {

@@ -1,8 +1,4 @@
-﻿// <copyright company="Aranda Software">
-// © Todos los derechos reservados
-// </copyright>
-
-using Cricarba.Storage.Definitions;
+﻿using Cricarba.Storage.Definitions;
 using System.IO;
 using System.Threading.Tasks;
 

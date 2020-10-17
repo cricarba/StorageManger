@@ -1,8 +1,4 @@
-﻿// <copyright company="Aranda Software">
-// © Todos los derechos reservados
-// </copyright>
-
-using Cricarba.Storage.Definitions;
+﻿using Cricarba.Storage.Definitions;
 using Cricarba.Storage.Dto;
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Blob;
