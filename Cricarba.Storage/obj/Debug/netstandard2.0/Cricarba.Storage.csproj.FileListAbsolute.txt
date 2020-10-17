@@ -1,0 +1,8 @@
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\bin\Debug\netstandard2.0\Cricarba.Storage.deps.json
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\bin\Debug\netstandard2.0\Cricarba.Storage.dll
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\obj\Debug\netstandard2.0\Cricarba.Storage.csproj.CoreCompileInputs.cache
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\obj\Debug\netstandard2.0\Cricarba.Storage.AssemblyInfoInputs.cache
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\obj\Debug\netstandard2.0\Cricarba.Storage.AssemblyInfo.cs
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\bin\Debug\netstandard2.0\Cricarba.Storage.pdb
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\obj\Debug\netstandard2.0\Cricarba.Storage.dll
+C:\Users\cristian.carvajal\source\repos\Cricarba.Storage\Cricarba.Storage\obj\Debug\netstandard2.0\Cricarba.Storage.pdb
